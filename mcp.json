@@ -1,0 +1,11 @@
+{
+    "inputs": [],
+    "servers": {
+       "calculator-server": {
+           "command": "C:\\Users\\49151\\OneDrive\\Desktop\\MCP-guide\\calculator-server\\venv\\Scripts\\python.exe",
+           "args": [
+               "server.py"
+           ]
+       }
+    }
+}
